@@ -4,9 +4,7 @@ import ExperienceCard from "./ExperienceCard";
 import ExperienceCard2 from "./ExperienceCard2";
 // import { Experience } from "../typings";
 
-type Props = {
-  experiences: any
-}
+type Props = {}
 
 function WorkExperience() {
   return (

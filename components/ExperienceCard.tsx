@@ -7,7 +7,7 @@ type Props = {
     experience: Experience;
 }
 
-function ExperienceCard({ experience }: Props) {
+function ExperienceCard() {
   return (
     <article className="flex flex-col rounded-lg items-center space-y-7
     flex-shrink-0 w-[500px] md:w-[600px] xl:w-[900px] snap-center
